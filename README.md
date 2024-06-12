@@ -13,3 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 https://elys.bonusblock.io/explore
  https://github.com/Kicker161/YXD/tree/main
+
+ - Vercel creates a unique link for each commit and each branch (showing the latest version of the branch), which you can get from the deployment page. Share the branch link with the team if needed
+ -  Always use present tense in commit messages
+ -  
